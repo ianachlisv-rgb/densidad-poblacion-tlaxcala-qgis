@@ -35,3 +35,6 @@ Si la capa no está en EPSG:6372 el script se detiene (usa `--reproyectar` para 
 
 ## Qué no incluye
 Los datos del INEGI y el proyecto de QGIS no están en este repositorio. Los datos del Censo 2020 (SCINCE) se pueden descargar en inegi.org.mx.
+
+## Licencia
+Código bajo licencia MIT (ver [`LICENSE`](LICENSE)). El texto y las figuras del artículo son del autor; los datos del INEGI pertenecen a la institución.
